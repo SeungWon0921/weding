@@ -1,0 +1,180 @@
+/* .thema_title {text-align: left; width: 100%;display: inline-block;position: absolute;top:1px} */
+
+.thema_title {
+  text-align: left;
+  width: 100%;
+  display: inline-block;
+  position: absolute;
+  top: 1px;
+}
+.main .main_img_wrap .main_skinimg {
+  position: relative;
+}
+.main_txt .tit_name {
+  width: 100%;
+  display: inline-block;
+  font-family: "Pre-R";
+  font-size: 0.75rem;
+  margin-bottom: 10px;
+}
+#pro_mode .main .main_txt p {
+  border-bottom: none;
+  text-align: left;
+  width: 85%;
+}
+.main_img_wrap .main_tit {
+  padding-bottom: 10px;
+  padding-top: 40px;
+}
+.main_img_wrap .main_tit .tit_name {
+  font-size: 13px;
+  font-family: "Pre-R";
+  color: #797979;
+  margin-bottom: 10px;
+}
+.main_img_wrap .main_tit .date {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+.main_img_wrap .main_tit .date .month {
+  padding-right: 3px;
+  font-size: 21px;
+}
+.main_img_wrap .main_tit .date .work {
+  margin-left: 3px;
+  font-size: 21px;
+}
+.main_img_wrap .main_tit .week {
+  font-size: 14px;
+  color: #767676;
+}
+.main_img_wrap .main_txt {
+  padding-top: 80px !important;
+  padding-bottom: 25px !important ;
+}
+.line {
+  position: relative;
+  display: inline-block;
+  width: 85%;
+  height: 1px;
+}
+.line::before {
+  content: "";
+  position: absolute;
+  top: 9px;
+  left: 0;
+  width: 6%;
+  height: 100%;
+  border-top: 1px solid #7c7c7c;
+  transform: rotate(-45deg);
+  transform-origin: 0 0;
+}
+.main_img_wrap .main_txt .date_wrap {
+  margin-top: 20px;
+  line-height: 20px;
+  color: #7a7a7a;
+  padding-bottom: 10px;
+}
+.thema_wrap .date_wrap span {
+  font-size: 14px;
+}
+#pro_mode .thema_wrap .date_wrap p {
+  margin-top: 0;
+  border: none;
+  font-size: 1.125rem;
+  margin-top: 5px;
+}
+
+#pro_mode .main .main_txt .date_wrap span {
+  font-size: 0.975rem;
+}
+#pro_mode .main .main_txt .date_wrap p {
+  font-size: 0.975rem;
+}
+#pro_mode .thema_wrap {
+  padding-bottom: 30px;
+}
+
+#pro_mode .all_txt_wrap {
+  margin-top: 35px;
+}
+#pro_mode .main .main_txt {
+  padding-bottom: 20px;
+}
+#pro_mode .main .main_txt p {
+  margin-top: 0;
+}
+#pro_mode .main .bottom_txt {
+  padding-bottom: 20px;
+}
+#pro_mode .section_tit {
+  color: #93729b;
+}
+#pro_mode .interview_wrap .interview_inner .theme_tit {
+  color: #93729b;
+}
+#pro_mode .notice_inner .theme_tit {
+  color: #93729b;
+}
+/* */
+/* ìƒ‰ë³€ê²½í•˜ê¸° */
+#pro_mode .call_wrap .call_box_btn p {
+  background: #93729b;
+}
+#pro_mode .tit_pink {
+  color: #93729b;
+}
+#pro_mode .map_inner .map_detail {
+  background: #93729b;
+}
+#pro_mode #kCalendar .weddingday {
+  /* background: #93729b; */
+  /* width: 52px; */
+  /* height: 52px; */
+  /* position: absolute; */
+  /* width: 40px; */
+  /* height: 40px; */
+  color: #fff;
+  background-image: url(/Weding/storefarm/card/skin/pro_mode/img/sample/heart.svg) !important;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+#pro_mode .book_btn a {
+  background: #93729b;
+}
+#pro_mode .interview_wrap .interview_inner .inter_inner_wrap .open_interview {
+  background: #93729b;
+}
+#pro_mode .call_pop_down > p {
+  background: #93729b;
+}
+.b_date {
+  color: #93729b;
+}
+#pro_mode .account_box .account_tit {
+  background: #f2eef3;
+}
+#pro_mode .attend_inner .check_attend {
+  background: #f2eef3;
+}
+#pro_mode .profile_wrap .profile_inner .theme_tit {
+  color: #93729b;
+}
+#pro_mode .interview_wrap .interview_inner .inter_inner_wrap p.tit_question {
+  margin-top: 30px;
+  border-bottom: 1px solid #ededed;
+  padding: 30px 0;
+  padding-bottom: 10px;
+}
+#pro_mode .interview_wrap .interview_inner .inter_inner_wrap p.tit_answer {
+  padding: 15px 0;
+}
+
+#kCalendar #date {
+  font-size: 17px;
+  margin-bottom: 10px;
+  display: inline-block;
+  color: #575757;
+}

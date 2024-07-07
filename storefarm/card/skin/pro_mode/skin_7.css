@@ -136,10 +136,9 @@
   /* width: 40px; */
   /* height: 40px; */
   color: #fff;
-  background-image: url(/Weding/storefarm/card/skin/pro_mode/img/sample/heart.svg) !important;
+  background-image: url(/storefarm/card/skin/pro_mode/img/sample/heart.svg) !important;
   background-repeat: no-repeat;
   background-size: cover;
-  
 }
 #pro_mode .book_btn a {
   background: #93729b;

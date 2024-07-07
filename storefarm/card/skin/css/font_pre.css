@@ -1,8 +1,7 @@
 @font-face {
   font-family: "Pre-M";
-  src: url("/Weding/storefarm/card/font/Pretendard-Medium.woff2")
-      format("woff2"),
-    url("/Weding/storefarm/card/font/Pretendard-Medium.woff") format("woff");
+  src: url("./storefarm/card/font/Pretendard-Medium.woff2") format("woff2"),
+    url("./storefarm/card/font/Pretendard-Medium.woff") format("woff");
   font-style: normal;
   font-weight: normal;
 }

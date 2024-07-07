@@ -1,7 +1,7 @@
 @font-face {
   font-family: "SUITE Variable";
   font-weight: 300 900;
-  src: url("/Weding/storefarm/card/font/SUITE-Variable.woff2")
+  src: url("./storefarm/card/font/SUITE-Variable.woff2")
     format("woff2-variations");
 }
 

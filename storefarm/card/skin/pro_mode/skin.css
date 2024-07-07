@@ -23,15 +23,14 @@
 
 @font-face {
   font-family: "GreatVibes";
-  src: url("/Weding/storefarm/card/font/GreatVibes-Regular.woff")
-    format("woff2");
+  src: url("/storefarm/card/font/GreatVibes-Regular.woff") format("woff2");
   font-weight: 400;
   font-style: normal;
 }
 
 @font-face {
   font-family: "DancingScript";
-  src: url("/Weding/storefarm/card/font/DancingScript-VariableFont_wght.TTF")
+  src: url("./storefarm/card/font/DancingScript-VariableFont_wght.TTF")
     format("truetype");
   font-weight: normal;
   font-style: normal;
@@ -109,7 +108,7 @@
   /* overflow: hidden; */
 }
 #pro_mode .effect_place .smoke {
-  background-image: url(/Weding/storefarm/card/skin/pro_mode/img/white_front.png);
+  background-image: url(/storefarm/card/skin/pro_mode/img/white_front.png);
   width: 100%;
   height: 165px;
   position: absolute;
@@ -393,6 +392,7 @@
 .swiper-button-next,
 .swiper-container-rtl .swiper-button-prev {
   background-image: url(/storefarm/card/skin/img/right.svg);
+  background-image: url(/storefarm/card/skin/img/left.svg);
 }
 .swiper-button-next,
 .swiper-button-prev {
